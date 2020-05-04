@@ -1,11 +1,11 @@
 # frontend-course
 curso de frontend developer :D
 
-##Acerca de
+#Acerca de
 Este repositorio es de un curso de Frontend Developer que estoy llevando en Platzi!
 
-##Autor
+#Autor
 * **Jordan Salazar** - [RAFALAZAR](https://github.com/rafalazar)
 
-##Licencia
+#Licencia
 Este proyecto está bajo la licencia de MIT License
